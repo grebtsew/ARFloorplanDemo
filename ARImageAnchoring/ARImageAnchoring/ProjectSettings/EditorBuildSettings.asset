@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/MultipleImageTrackers.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 0
+    path: Assets/Scenes/PlanDetection.unity
+    guid: 35df918f6edb8f4448c774f4b517f1b6
+  - enabled: 0
+    path: Assets/Scenes/CalculateDistance.unity
+    guid: 7536614fca0b4d248afc280ce54f14e0
+  - enabled: 1
+    path: Assets/Scenes/Result.unity
+    guid: 95d871ad6b6cf86499c2a2763dc62c5c
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: b2b5f140b6915694497e3bd87870819c,
+      type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 6d3e76ff5b4974b4b9fffdc1273606b1,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 889b981163ee88f4f965e6305349324a,
+      type: 2}

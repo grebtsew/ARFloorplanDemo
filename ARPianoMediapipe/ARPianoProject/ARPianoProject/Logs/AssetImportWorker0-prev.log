@@ -1,0 +1,175 @@
+Using pre-set license
+Built from '2020.2/release' branch; Version is '2020.2.1f1 (270dd8c3da1c) revision 2559448'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10  (10.0.0) 64bit' Language: 'sv' Physical Memory: 32628 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.2.1f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/Daniel/Documents/Git/TDDD57-fysisk-interaktion-spelprogrammering/Lab3/ARPianoProject/ARPianoProject
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+57907
+Successfully changed project path to: C:/Users/Daniel/Documents/Git/TDDD57-fysisk-interaktion-spelprogrammering/Lab3/ARPianoProject/ARPianoProject
+C:/Users/Daniel/Documents/Git/TDDD57-fysisk-interaktion-spelprogrammering/Lab3/ARPianoProject/ARPianoProject
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 27.99 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.1f1 (270dd8c3da1c)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Daniel/Documents/Git/TDDD57-fysisk-interaktion-spelprogrammering/Lab3/ARPianoProject/ARPianoProject/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1080 Ti (ID=0x1b06)
+    Vendor:   
+    VRAM:     11127 MB
+    Driver:   27.21.14.6089
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56112
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003415 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 24.69 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.428 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001125 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.30 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.824 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.30 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1447 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 67.4 MB.
+System memory in use after: 67.5 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 1886.
+Total: 1.687200 ms (FindLiveObjects: 0.129000 ms CreateObjectMapping: 0.049100 ms MarkObjects: 1.415400 ms  DeleteObjects: 0.093000 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Prefabs/AR Piano.prefab
+  artifactKey: Guid(b0c4ecdb4cd3d864c96b0cb435ed0751) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/AR Piano.prefab using Guid(b0c4ecdb4cd3d864c96b0cb435ed0751) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1c53d59be101b49c055ec7ccfbc590d') in 0.108327 seconds
+  Import took 0.111311 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001174 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.797 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.30 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1453 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 72.1 MB.
+System memory in use after: 71.6 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 1896.
+Total: 2.080100 ms (FindLiveObjects: 0.153000 ms CreateObjectMapping: 0.084700 ms MarkObjects: 1.515400 ms  DeleteObjects: 0.326300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 411.075447 seconds.
+  path: Assets/Prefabs/AR Piano.prefab
+  artifactKey: Guid(b0c4ecdb4cd3d864c96b0cb435ed0751) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/AR Piano.prefab using Guid(b0c4ecdb4cd3d864c96b0cb435ed0751) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6aab0e16e212cc29a6dff0274546fea7') in 0.058935 seconds
+  Import took 0.061977 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001152 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.806 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.31 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1454 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 72.3 MB.
+System memory in use after: 71.8 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 1900.
+Total: 2.122500 ms (FindLiveObjects: 0.283900 ms CreateObjectMapping: 0.124600 ms MarkObjects: 1.323100 ms  DeleteObjects: 0.390200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 82.228506 seconds.
+  path: Assets/Prefabs/AR Piano.prefab
+  artifactKey: Guid(b0c4ecdb4cd3d864c96b0cb435ed0751) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/AR Piano.prefab using Guid(b0c4ecdb4cd3d864c96b0cb435ed0751) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70095187ea8ec5630ac007350a126e46') in 0.057167 seconds
+  Import took 0.059898 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 48.356011 seconds.
+  path: Assets/Prefabs/AR Piano.prefab
+  artifactKey: Guid(b0c4ecdb4cd3d864c96b0cb435ed0751) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/AR Piano.prefab using Guid(b0c4ecdb4cd3d864c96b0cb435ed0751) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff69a81a168f72ceb0dce9303e7fdadb') in 0.076379 seconds
+  Import took 0.079531 seconds .
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 5.79 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 24 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 44.6 MB.
+System memory in use after: 44.1 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 1902.
+Total: 2.551800 ms (FindLiveObjects: 0.240100 ms CreateObjectMapping: 0.073200 ms MarkObjects: 1.946800 ms  DeleteObjects: 0.290400 ms)
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 2.75 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 20 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 44.6 MB.
+System memory in use after: 44.1 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 1902.
+Total: 3.750000 ms (FindLiveObjects: 0.244900 ms CreateObjectMapping: 0.115300 ms MarkObjects: 3.052800 ms  DeleteObjects: 0.334900 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file

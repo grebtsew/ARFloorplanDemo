@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5718682228708042338
+  m_GuidHigh: 14803592870843120298
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5448476740137228982
+      m_GuidHigh: 789392144294814137
+    m_SerializedTextureGuid:
+      m_GuidLow: 14268618559837417597
+      m_GuidHigh: 8632265396446465323
+    m_Size: {x: 0.05, y: 0.03729569}
+    m_SpecifySize: 1
+    m_Name: AR Sphere
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5649227962054992089
+      m_GuidHigh: 8843593515532165269
+    m_SerializedTextureGuid:
+      m_GuidLow: 3932965890898009579
+      m_GuidHigh: 8205329261107998203
+    m_Size: {x: 0.1, y: 0.1407767}
+    m_SpecifySize: 1
+    m_Name: AR Cube
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4809428649560940504
+      m_GuidHigh: 17686757813478872961
+    m_SerializedTextureGuid:
+      m_GuidLow: 18051795820794470860
+      m_GuidHigh: 13363206011080138538
+    m_Size: {x: 0.07136456, y: 0.12}
+    m_SpecifySize: 1
+    m_Name: AR Piano
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5189390977445761035
+      m_GuidHigh: 17227273362352123822
+    m_SerializedTextureGuid:
+      m_GuidLow: 4252769911185550436
+      m_GuidHigh: 10986560366235823081
+    m_Size: {x: 0.05, y: 0.054545455}
+    m_SpecifySize: 1
+    m_Name: AR Piano 1
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5207713654354409317
+      m_GuidHigh: 3853439762927571108
+    m_SerializedTextureGuid:
+      m_GuidLow: 15529747319783800971
+      m_GuidHigh: 7539152163810054105
+    m_Size: {x: 0.05, y: 0.075555556}
+    m_SpecifySize: 1
+    m_Name: AR XYZAxis
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4789659467446755246
+      m_GuidHigh: 7821914158402556049
+    m_SerializedTextureGuid:
+      m_GuidLow: 8648043814868229831
+      m_GuidHigh: 8647670849950914426
+    m_Size: {x: 0.05, y: 0.07272727}
+    m_SpecifySize: 1
+    m_Name: AR XYZAxis 1
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4719167002688468904
+      m_GuidHigh: 6635454291106397611
+    m_SerializedTextureGuid:
+      m_GuidLow: 17412157407811171029
+      m_GuidHigh: 5992650590816211610
+    m_Size: {x: 0.05, y: 0.06952381}
+    m_SpecifySize: 1
+    m_Name: AR XYZAxis 2
+    m_Texture: {fileID: 0}
